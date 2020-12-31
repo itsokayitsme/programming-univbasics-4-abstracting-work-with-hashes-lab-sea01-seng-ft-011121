@@ -1,8 +1,6 @@
 def my_hash_creator(key, value)
  {:name => "Grace Hopper"}
-  {:age => 24}
-  
-end
+ end
 
 def read_from_hash(hash, key)
   # return the correct value using the hash and key parameters
